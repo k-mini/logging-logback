@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: logback
+
+#logging:
+#  file:
+# 로깅 파일 환경 변수 설정
+#    path: log/test.log # ${LOG_PATH}
+# 로깅 환경 파일 설정
+#  config: config/logback-local.xml
